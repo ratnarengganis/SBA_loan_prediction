@@ -8,7 +8,8 @@ The Small Business Administration (SBA) is a government agency in the US establi
 The purpose of this project is to develop a solution to reduce the default rate of SBA loans. By leveraging machine learning techniques and analyzing historical loan data, we aim to build a predictive model that can assess the likelihood of loan default. This model can then be used by banks and lending institutions to make informed decisions and mitigate potential losses.
 
 ## Project Workflow
-<b>1. Exploratory Data Analysis (EDA)<\b> <br>
+<b>1. Exploratory Data Analysis (EDA)<b> 
+<br>
    The first step in the EDA process is to import the SBA Loan Dataset. Descriptive statistic analysis is then performed to gain an initial understanding of the dataset,   including measures such as mean, median, and standard deviation for numerical variables, as well as frequency distributions for categorical variables. The next step involves checking the data types to ensure their appropriateness for each column and examining for the presence of missing values. If any missing values are found, appropriate techniques such as imputation or removal are applied. Lastly, the dataset is limited based on references from journals and official SBA websites, ensuring that the data used aligns with the project's objectives and is sourced from reputable and authoritative references.
    
 2. Data Preprocessing
